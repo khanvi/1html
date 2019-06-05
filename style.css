@@ -1,0 +1,30 @@
+*{
+	margin-top: 10px;
+	padding: 0;
+	font-weight: 100;
+	font-family: Arial;
+	color: grey;
+}
+
+.flex {
+	display: flex;
+}
+
+.block {
+	margin-left: 30px;
+	text-align: center;
+}
+
+img {
+	width: 70%;
+}
+
+h3 {
+	margin-top: 40px;
+	font-size: 30px;
+}
+
+p {
+	margin-top: 40px;
+}
+
